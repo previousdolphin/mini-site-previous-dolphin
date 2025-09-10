@@ -1,6 +1,6 @@
 # 🐬 mini-site-previous-dolphin  
 
-A **website in 10 minified lines of HTML**.  
+A **website in 1 minified line of HTML**.  
 Built as a proof-of-concept: clean, responsive, and extendable into bigger projects.  
 
 🌐 **Live Demo:** [previousdolphin.github.io/mini-site-previous-dolphin](https://previousdolphin.github.io/mini-site-previous-dolphin/)  
@@ -8,7 +8,7 @@ Built as a proof-of-concept: clean, responsive, and extendable into bigger proje
 ---
 
 ## ✨ Features
-- Fully functional single-page app in **~10 lines**
+- Fully functional single-page app in **~1 line**
 - Responsive layout with [Tailwind CSS](https://tailwindcss.com/)
 - Animated background using [D3.js](https://d3js.org/)
 - Countdown timer hidden until the “mystery” section
@@ -27,7 +27,7 @@ Fork it, tweak it, and quickly spin up:
 
 ## 🛠️ How It Works
 All logic, styles, and markup are **inline**.  
-The entire site can be compressed into a single file under 10 lines, yet still provide:
+The entire site can be compressed into a single one line file, yet still provide:
 - Navigation  
 - Sections  
 - Animations  
