@@ -70,16 +70,14 @@
         .scalable-wrapper {
             height: 45px; /* Or any other desired fixed or flexible height */
             overflow: auto; /* To clip if the SVG is larger than the wrapper */
-            border: 1px solid red; /* For visualization */
             display: flex; /* To center the SVG if desired */
             justify-content: center;
-            align-items: center;
+            align-items: left;
         }
 
         .scalable-wrapper svg {
             /* No specific width/height needed here if the SVG has its own,
             but you could still use percentages if you want it to fill the wrapper */
-            max-width: 100%;
             max-height: 100%;
         }
         /* Simple fade-in animation for page transitions */
